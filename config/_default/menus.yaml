@@ -1,0 +1,18 @@
+leftnav:
+- identifier: c7e93a18-e1d5-9f56-75b3-073340e84472
+  name: Sample Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 745af33f-fb92-87ea-6ec9-91738469d9e0
+  name: Sample Readings
+  pageRef: /pages/syllabus/sample-readings
+  parent: c7e93a18-e1d5-9f56-75b3-073340e84472
+  weight: 20
+- identifier: 69aad9e7-fb4b-a2bf-d1ba-e62d4e389183
+  name: Bibliography
+  pageRef: /pages/additional-resources
+  weight: 30
+- identifier: external-3a65d065350b4a47a480df81eb85f183
+  name: Learning Module and Course Materials
+  url: https://deepfakes.virtuality.mit.edu/
+  weight: 1000
